@@ -1,8 +1,8 @@
-# CloudFile 云文件管理系统
+# FlyAdmin 后台管理系统
 
 ## 项目概述
 
-CloudFile 是一个基于 Go 语言开发的企业级云文件管理系统，提供完整的文件管理、用户权限控制、定时任务调度等功能。系统采用前后端分离架构，后端基于 Gin 框架开发，具有高性能、易扩展、安全可靠的特点。
+FlyAdmin 是一个基于 Go 语言开发的企业级后台管理系统，提供完整的文件管理、用户权限控制、定时任务调度等功能。系统采用前后端分离架构，后端基于 Gin 框架开发，具有高性能、易扩展、安全可靠的特点。
 
 ## 技术栈
 
@@ -336,10 +336,10 @@ go run main.go
 ### 3. 生产环境部署
 ```bash
 # 编译
-go build -o cloudfile main.go
+go build -o FlyAdmin main.go
 
 # 运行
-./cloudfile
+./FlyAdmin
 ```
 
 ## API接口文档
@@ -535,3 +535,4 @@ func (v *CustomValidator) Validator(fl validator.FieldLevel) bool {
 ---
 
 **注意**: 本文档会随着项目的发展持续更新，请关注最新版本。 
+
