@@ -199,7 +199,7 @@ GET /api/menuApi/check-url?url=/api/user/list&exclude_id=1
   },
   {
     "code": "user_update",
-    "url": "/api/user/update",
+    "url": "/api/user/upload",
     "menu_id": 1,
     "describe": "更新用户"
   },

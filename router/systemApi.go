@@ -23,7 +23,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 		rUser.GET("/all", userController.All)
 		rUser.GET("/list", userController.List)
 		rUser.POST("/add", userController.Add)
-		rUser.POST("/update", userController.Up)
+		rUser.POST("/upload", userController.Up)
 		rUser.DELETE("/del", userController.Dels)
 		rUser.DELETE("/:id", userController.Del)
 	}
@@ -34,7 +34,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 		rRole.GET("/group", roleController.Group)
 		rRole.GET("/list", roleController.List)
 		rRole.POST("/add", roleController.Add)
-		rRole.PUT("/update", roleController.Up)
+		rRole.PUT("/upload", roleController.Up)
 		rRole.DELETE("/del", roleController.Del)
 		rRole.POST("/upMenu", roleController.RoleUpMenu)
 	}
@@ -44,7 +44,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 		//添加菜单
 		rMenu.POST("/add", menuController.Add)
 		//修改菜单
-		rMenu.PUT("/update", menuController.Update)
+		rMenu.PUT("/upload", menuController.Update)
 		//菜单列表
 		rMenu.GET("/list", menuController.All)
 		//菜单批量删除
@@ -57,7 +57,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 	{
 		rDepart.GET("/list", DepartmentController.List)
 		rDepart.POST("/add", DepartmentController.Add)
-		rDepart.PUT("/update", DepartmentController.Edit)
+		rDepart.PUT("/upload", DepartmentController.Edit)
 		rDepart.DELETE("/del", DepartmentController.Delete)
 		rDepart.DELETE("/:id", DepartmentController.Del)
 		rDepart.PUT("/upAdmin", DepartmentController.UserUpDepart)
@@ -69,7 +69,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 		//添加API
 		rApi.POST("/add", MenuApiController.CreateMenuApi)
 		//修改API
-		rApi.PUT("/update", MenuApiController.UpdateMenuApi)
+		rApi.PUT("/upload", MenuApiController.UpdateMenuApi)
 		//API列表
 		rApi.GET("/list", MenuApiController.GetMenuApiList)
 		//API批量删除
@@ -99,7 +99,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 		// 任务管理
 		timer.GET("task/list", timerController.GetTaskList)
 		timer.POST("task/create", timerController.CreateTask)
-		timer.PUT("task/update", timerController.UpdateTask)
+		timer.PUT("task/upload", timerController.UpdateTask)
 		timer.DELETE("task/delete/:id", timerController.DeleteTask)
 		timer.GET("task/get/:id", timerController.GetTask)
 		timer.POST("task/execute", timerController.ExecuteTask)
@@ -118,7 +118,7 @@ func SystemApiInit(r *gin.RouterGroup) {
 		rFileGroup.GET("/:id", fileGroupController.Index)
 		rFileGroup.GET("/list", fileGroupController.List)
 		rFileGroup.POST("/add", fileGroupController.Save)
-		rFileGroup.PUT("/update", fileGroupController.Edit)
+		rFileGroup.PUT("/upload", fileGroupController.Edit)
 		rFileGroup.DELETE("/:id", fileGroupController.Delete)
 		rFileGroup.GET("/check/:id", fileGroupController.Check)
 	}

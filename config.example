@@ -26,3 +26,8 @@ logger:
   size: 10 # 日志大小
   maxAge: 3 #日志保留天数
   stdOut: true #控制台输出
+  # 定时器设置
+ cron:
+    order_status_update: "0 1 * * *" # 每天凌晨 1 点执行
+    new_schedule: "0 2 * * *"        # 新的定时任务时间规则
+    TIMEOUT: (10, 30)                # 请求超时时间配置

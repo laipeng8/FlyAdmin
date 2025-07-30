@@ -29,7 +29,7 @@ func StartCronJob(cfg *config.Config) error {
 
 	// 添加订单状态更新任务
 	entryID, err := cronInstance.AddFunc(cfg.Cron.OrderStatusUpdate, func() {
-		fmt.Println("Running order status update task...")
+		fmt.Println("Running order status upload task...")
 		UpdateOrderStatus()
 	})
 	if err != nil {
@@ -72,7 +72,7 @@ func UpdateCronJob(cronExpression string) error {
 
 	// 添加新的任务
 	entryID, err := cronInstance.AddFunc(cronExpression, func() {
-		fmt.Println("Running order status update task with new schedule...")
+		fmt.Println("Running order status upload task with new schedule...")
 		UpdateOrderStatus()
 	})
 	if err != nil {

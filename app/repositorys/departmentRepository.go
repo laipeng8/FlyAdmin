@@ -91,7 +91,7 @@ func (r *DepartmentRepository) Update(data requests.DepartmentUpdate) error {
 		db := tx.Where("id = ?", data.Id).Updates(&r.Department)
 		if db.Error != nil {
 			// 记录错误日志
-			log.Printf("Failed to update department with ID %d: %v", data.Id, db.Error)
+			log.Printf("Failed to upload department with ID %d: %v", data.Id, db.Error)
 			return db.Error
 		}
 
