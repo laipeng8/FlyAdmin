@@ -1,0 +1,35 @@
+{"level":"error","time":"2025-06-04 11:22:59","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 11:38:22","msg":"Shutting down server..."}
+{"level":"info","time":"2025-06-04 11:38:22","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-06-04 11:38:24","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 11:38:36","msg":"Shutting down server..."}
+{"level":"info","time":"2025-06-04 11:38:36","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-06-04 11:38:37","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 11:40:11","msg":"Shutting down server..."}
+{"level":"info","time":"2025-06-04 11:40:11","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-06-04 11:40:12","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 11:41:29","msg":"Shutting down server..."}
+{"level":"info","time":"2025-06-04 11:41:29","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 14:52:42","msg":"Shutting down server..."}
+{"level":"error","time":"2025-06-04 14:52:42","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 14:52:42","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 14:54:00","msg":"Shutting down server..."}
+{"level":"info","time":"2025-06-04 14:54:00","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-06-04 14:54:00","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 14:55:24","msg":"Shutting down server..."}
+{"level":"error","time":"2025-06-04 14:55:24","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 14:55:24","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 15:16:06","msg":"Shutting down server..."}
+{"level":"error","time":"2025-06-04 15:16:06","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 15:16:06","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 15:46:11","msg":"Shutting down server..."}
+{"level":"error","time":"2025-06-04 15:46:11","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 15:46:11","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 15:48:34","msg":"Shutting down server..."}
+{"level":"error","time":"2025-06-04 15:48:34","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 15:48:34","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 15:49:09","msg":"Shutting down server..."}
+{"level":"error","time":"2025-06-04 15:49:09","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-06-04 15:49:09","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-06-04 17:44:18","msg":"Shutting down server..."}
+{"level":"info","time":"2025-06-04 17:44:18","msg":"shutdown-->ok"}

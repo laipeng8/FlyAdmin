@@ -1,0 +1,3 @@
+{"level":"info","time":"2025-04-25 13:11:55","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-25 13:11:55","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-04-25 13:11:55","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}

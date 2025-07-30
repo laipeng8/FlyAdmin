@@ -1,0 +1,46 @@
+{"level":"info","time":"2025-01-10 19:25:05","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 19:25:05","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 19:25:05","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 19:35:11","msg":"{Meta:map[title:商品编辑 type:menu] Component: Name:product.edit ParentId:38 Path: Redirect: Id:126 ApiList:[map[code:put id:34 menu_id:126 url:/back/product/update]] Sort:0}"}
+{"level":"info","time":"2025-01-10 19:35:44","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 19:35:44","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 19:35:44","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 19:50:17","msg":"{Meta:map[icon: title:添加 type:button] Component: Name:menu.add ParentId:48 Path: Redirect: Id:104 ApiList:[map[code:post id:18 menu_id:104 url:/back/system/role/up]] Sort:1}"}
+{"level":"info","time":"2025-01-10 20:19:50","msg":"{Meta:map[icon: title:编辑 type:button] Component: Name:user.edit ParentId:100 Path: Redirect: Id:103 ApiList:[map[code:post id:14 menu_id:103 url:/back/user/update]] Sort:1}"}
+{"level":"info","time":"2025-01-10 20:20:03","msg":"{Meta:map[hidden:true title:添加 type:button] Component: Name:user.add ParentId:100 Path: Redirect: Id:102 ApiList:[map[code:post id:13 menu_id:102 url:/back/user/add]] Sort:2}"}
+{"level":"info","time":"2025-01-10 20:20:11","msg":"{Meta:map[hidden:true icon: title:删除 type:button] Component: Name:user.del ParentId:100 Path: Redirect: Id:101 ApiList:[map[code:post id:12 menu_id:101 url:/back/user/del]] Sort:3}"}
+{"level":"info","time":"2025-01-10 20:56:32","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 20:56:32","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 20:56:32","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 20:57:29","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 20:57:29","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 20:57:29","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 20:58:42","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 20:58:42","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 20:58:42","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 21:00:29","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 21:00:29","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 21:00:29","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 21:08:48","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 21:08:48","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 21:08:48","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 21:12:18","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 21:12:18","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 21:12:18","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-10 21:33:18","msg":"{Meta:map[title:测试 type:menu] Component: Name:别名 ParentId:0 Path: Redirect: Id:128 ApiList:[map[code:post url:/back/system/menu/add]] Sort:0}"}
+{"level":"info","time":"2025-01-10 21:39:22","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-10 21:39:22","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-10 21:39:22","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-11 14:48:10","msg":"{Meta:map[icon:el-icon-shop title:商品 type:menu] Component: Name:未命名4 ParentId:0 Path: Redirect: Id:38 ApiList:[] Sort:0}"}
+{"level":"info","time":"2025-01-11 14:48:21","msg":"{Meta:map[color:#8E8888 fullpage:false icon: title:商品添加 type:menu] Component: Name:product.add ParentId:38 Path:/back/product/add Redirect: Id:123 ApiList:[map[code:post id:32 menu_id:123 url:/back/product/add]] Sort:0}"}
+{"level":"info","time":"2025-01-11 14:48:36","msg":"{Meta:map[color:#8E8888 fullpage:false icon:el-icon-add-location title:商品添加 type:menu] Component: Name:product.add ParentId:38 Path:/back/product/add Redirect: Id:123 ApiList:[map[code:post id:32 menu_id:123 url:/back/product/add]] Sort:0}"}
+{"level":"info","time":"2025-01-11 14:48:44","msg":"{Meta:map[icon:el-icon-list title:商品列表 type:menu] Component: Name:product.list ParentId:38 Path: Redirect: Id:125 ApiList:[map[code:get id:33 menu_id:125 url:/back/product/index]] Sort:3}"}
+{"level":"info","time":"2025-01-11 14:48:55","msg":"{Meta:map[icon:el-icon-edit title:商品编辑 type:menu] Component: Name:product.edit ParentId:38 Path: Redirect: Id:126 ApiList:[map[code:put id:34 menu_id:126 url:/back/product/update]] Sort:0}"}
+{"level":"info","time":"2025-01-11 14:49:05","msg":"{Meta:map[icon:el-icon-delete title:商品删除 type:menu] Component: Name:product.delete ParentId:38 Path: Redirect: Id:127 ApiList:[map[code:delete id:35 menu_id:127 url:/back/product/delete]] Sort:0}"}
+{"level":"info","time":"2025-01-11 14:50:33","msg":"{Meta:map[icon:el-icon-list title:商品列表 type:menu] Component: Name:product.list ParentId:38 Path:/back/product/list Redirect: Id:125 ApiList:[map[code:get id:33 menu_id:125 url:/back/product/index]] Sort:3}"}
+{"level":"info","time":"2025-01-11 14:50:40","msg":"{Meta:map[icon:el-icon-edit title:商品编辑 type:menu] Component: Name:product.edit ParentId:38 Path:/back/product/edit Redirect: Id:126 ApiList:[map[code:put id:34 menu_id:126 url:/back/product/update]] Sort:0}"}
+{"level":"info","time":"2025-01-11 14:50:46","msg":"{Meta:map[icon:el-icon-delete title:商品删除 type:menu] Component: Name:product.delete ParentId:38 Path:/back/product/del Redirect: Id:127 ApiList:[map[code:delete id:35 menu_id:127 url:/back/product/delete]] Sort:0}"}
+{"level":"info","time":"2025-01-12 10:56:28","msg":"{Meta:map[icon:el-icon-files title:商品分类 type:menu] Component: Name:productCategory.delete ParentId:38 Path:/back/productCategory/del Redirect: Id:130 ApiList:[map[code:post url:/back/productCategory/add]] Sort:0}"}
+{"level":"info","time":"2025-01-12 10:57:09","msg":"{Meta:map[icon:el-icon-files title:商品分类添加 type:menu] Component: Name:productCategory.delete ParentId:38 Path:/back/productCategory/del Redirect: Id:130 ApiList:[map[code:post id:38 menu_id:130 url:/back/productCategory/add]] Sort:0}"}
+{"level":"info","time":"2025-01-12 11:07:21","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-12 11:07:21","msg":"shutdown-->ok"}

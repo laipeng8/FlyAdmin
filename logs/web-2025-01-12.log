@@ -1,0 +1,55 @@
+{"level":"info","time":"2025-01-12 11:18:56","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 11:18:56","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 11:18:56","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 11:35:13","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 11:35:13","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 11:35:13","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 11:49:58","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 11:49:58","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 11:49:58","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 11:51:00","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 11:51:00","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 11:51:00","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 11:52:59","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 11:52:59","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 11:52:59","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 11:53:33","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 11:53:33","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 11:53:33","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 15:32:05","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-12 15:32:05","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 15:46:22","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 15:46:22","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 15:46:22","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 16:33:26","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 16:33:26","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 16:33:26","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 16:45:20","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 16:45:20","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 16:45:20","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 16:52:02","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-12 16:52:02","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 17:10:21","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 17:10:21","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 17:10:21","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 18:04:47","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 18:04:47","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 18:04:47","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 18:07:35","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 18:07:35","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 18:07:35","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 18:08:06","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 18:08:06","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 18:08:06","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 18:29:19","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 18:29:19","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 18:29:19","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 18:39:12","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 18:39:12","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 18:39:12","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-12 18:53:20","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-12 18:53:20","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-12 18:53:20","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-13 10:04:50","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-13 10:04:50","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-13 10:04:50","msg":"shutdown-->ok"}

@@ -1,0 +1,28 @@
+env: 'dev' #dev 开发环境会启用代码生成工具
+db:
+  type: 'mysql'
+  host: '127.0.0.1' #这个地方填写msyql服务的IP
+  port: '3306'
+  max-idle-conns: 10
+  max-open-conns: 100
+  name: 'root'
+  password: 'root'
+  database: 'gin_rbac'
+  table_prefix: 'gc_'
+
+myjwt:
+  secret: 'BbT4nlt4YCVAolTKf9ImxbYs7u1BGusKPtWuWLQ3ZtuOyk3F57' #这里是你的jwt秘钥
+  expires_at: 36000 #过期时间
+app:
+  host: "http://localhost:8080" #这里localhost 要替换成你的宿主机IP
+  port: ":8080"
+  uploadFile: "/upload" #文件上传地址
+rate: #限流配置
+  limit: 15
+  burst: 15
+logger:
+  drive: "zap" # 日志记录驱动
+  path: "logs" # 日志存放路径
+  size: 10 # 日志大小
+  maxAge: 3 #日志保留天数
+  stdOut: true #控制台输出

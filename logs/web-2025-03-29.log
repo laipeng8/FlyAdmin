@@ -1,0 +1,13 @@
+{"level":"info","time":"2025-03-29 13:45:04","msg":"Shutting down server..."}
+{"level":"info","time":"2025-03-29 13:45:04","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-03-29 14:51:08","msg":"Shutting down server..."}
+{"level":"error","time":"2025-03-29 14:51:08","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-03-29 14:51:08","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-03-29 16:56:41","msg":"Shutting down server..."}
+{"level":"info","time":"2025-03-29 16:56:41","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-03-29 16:58:22","msg":"Shutting down server..."}
+{"level":"error","time":"2025-03-29 16:58:22","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-03-29 16:58:22","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-03-29 16:58:26","msg":"{Meta:map[icon:&#xe816; keepAlive:false title:menus.safeguard.title] Component:RoutesAlias.Home Name:Safeguard ParentId:0 Path:/safeguard Redirect:1111111111 Id:1015 ApiList:[] Sort:0}"}
+{"level":"info","time":"2025-03-30 16:20:12","msg":"Shutting down server..."}
+{"level":"info","time":"2025-03-30 16:20:12","msg":"shutdown-->ok"}

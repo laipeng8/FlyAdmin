@@ -1,0 +1,14 @@
+{"level":"error","time":"2025-04-11 14:59:03","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-04-11 14:59:15","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-11 14:59:15","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-11 14:59:45","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-11 14:59:45","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-04-11 14:59:45","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-04-11 16:49:40","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-11 16:49:40","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-04-11 16:49:40","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-04-11 17:29:07","msg":"Shutting down server..."}
+{"level":"error","time":"2025-04-11 17:29:07","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/server/main.go:39"}
+{"level":"info","time":"2025-04-11 17:29:07","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-12 15:06:01","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-12 15:06:01","msg":"shutdown-->ok"}

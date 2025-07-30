@@ -1,0 +1,78 @@
+{"level":"info","time":"2025-01-14 11:48:37","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 11:48:37","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 11:48:37","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 11:49:15","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 11:49:15","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 11:49:15","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 11:59:59","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 11:59:59","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 11:59:59","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 12:06:25","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 12:06:25","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 12:06:25","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 12:08:40","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 12:08:40","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 12:08:40","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 13:47:05","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 13:47:05","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 13:47:05","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 14:47:16","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 14:47:16","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 14:47:16","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 15:00:20","msg":"{Meta:map[color:#8E8888 fullpage:false icon:el-icon-add-location title:商品添加 type:menu] Component: Name:product.add ParentId:38 Path:/back/product/add Redirect: Id:123 ApiList:[map[code:post id:32 menu_id:123 url:/back/product/add] map[code:post url:/back/product/productSpecs/attribute/add] map[code:get url:/back/product/productSpecs//attribute/index] map[code:put url:/back/product/productSpecs//attribute/update] map[code:put url:/back/product/productSpecs//update] map[code:delete url:/back/product/productSpecs//del] map[code:delete url:/back/product/productSpecs//]] Sort:0}"}
+{"level":"info","time":"2025-01-14 15:01:09","msg":"{Meta:map[color:#8E8888 fullpage:false icon:el-icon-add-location title:商品添加 type:menu] Component: Name:product.add ParentId:38 Path:/back/product/add Redirect: Id:123 ApiList:[map[code:post id:32 menu_id:123 url:/back/product/add] map[code:post id:48 menu_id:123 url:/back/productSpecs/attribute/add] map[code:get id:49 menu_id:123 url:/back/productSpecs//attribute/index] map[code:put id:50 menu_id:123 url:/back/productSpecs//attribute/update] map[code:put id:51 menu_id:123 url:/back/productSpecs//update] map[code:delete id:52 menu_id:123 url:/back/productSpecs//del] map[code:delete id:53 menu_id:123 url:/back/productSpecs//]] Sort:0}"}
+{"level":"info","time":"2025-01-14 15:36:59","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 15:36:59","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 15:36:59","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 16:03:06","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-14 16:03:06","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 16:03:48","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-14 16:03:48","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 16:39:25","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-14 16:39:25","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 18:32:18","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-14 18:32:18","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 18:35:11","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 18:35:11","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 18:35:11","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 18:37:09","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-14 18:37:09","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 18:43:44","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 18:43:44","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 18:43:44","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 21:27:02","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-14 21:27:02","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:26:04","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:26:04","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:26:04","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:27:04","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:27:04","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:27:04","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:38:37","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:38:37","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:38:37","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:40:08","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:40:08","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:40:08","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:45:24","msg":"{Meta:map[color:#8E8888 fullpage:false icon:el-icon-add-location title:商品添加 type:menu] Component: Name:product.add ParentId:38 Path:/back/product/add Redirect: Id:123 ApiList:[map[code:post id:32 menu_id:123 url:/back/product/add] map[code:post id:48 menu_id:123 url:/back/productSpecs/attribute/add] map[code:get id:49 menu_id:123 url:/back/productSpecs/attribute/index] map[code:put id:50 menu_id:123 url:/back/productSpecs/attribute/update] map[code:put id:51 menu_id:123 url:/back/productSpecs/update] map[code:delete id:52 menu_id:123 url:/back/productSpecs/del] map[code:delete id:53 menu_id:123 url:/back/productSpecs/] map[code:post url:/back/productSpecs/add]] Sort:0}"}
+{"level":"info","time":"2025-01-14 22:46:57","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:46:57","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:46:57","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:47:20","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:47:20","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:47:20","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 22:50:35","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 22:50:35","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 22:50:35","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 23:01:37","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 23:01:37","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 23:01:37","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 23:05:43","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 23:05:43","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 23:05:43","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-14 23:23:14","msg":"Shutting down server..."}
+{"level":"error","time":"2025-01-14 23:23:14","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-01-14 23:23:14","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-01-15 04:14:04","msg":"Shutting down server..."}
+{"level":"info","time":"2025-01-15 04:14:04","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-01-15 04:14:04","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}

@@ -1,0 +1,40 @@
+{"level":"info","time":"2025-07-30 10:45:32","msg":"数据库迁移成功"}
+{"level":"info","time":"2025-07-30 10:45:32","msg":"Swagger文档初始化成功，访问地址: http://localhost:8080/swagger/index.html"}
+{"level":"info","time":"2025-07-30 10:45:32","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 10:45:32","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 10:46:05","msg":"数据库迁移成功"}
+{"level":"info","time":"2025-07-30 10:46:05","msg":"Swagger文档初始化成功，访问地址: http://localhost:8080/swagger/index.html"}
+{"level":"info","time":"2025-07-30 10:46:05","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 10:46:05","msg":"定时任务管理器启动成功"}
+{"level":"error","time":"2025-07-30 10:46:05","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
+{"level":"info","time":"2025-07-30 10:52:57","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 10:52:57","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 11:18:18","msg":"Shutting down server..."}
+{"level":"error","time":"2025-07-30 11:18:18","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
+{"level":"info","time":"2025-07-30 11:18:18","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-07-30 11:18:18","msg":"定时任务管理器已停止"}
+{"level":"info","time":"2025-07-30 11:19:07","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 11:19:07","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 14:13:29","msg":"Shutting down server..."}
+{"level":"info","time":"2025-07-30 14:13:29","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-07-30 14:13:29","msg":"定时任务管理器已停止"}
+{"level":"info","time":"2025-07-30 14:15:07","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 14:15:07","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 14:16:52","msg":"Shutting down server..."}
+{"level":"error","time":"2025-07-30 14:16:52","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
+{"level":"info","time":"2025-07-30 14:16:52","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-07-30 14:16:52","msg":"定时任务管理器已停止"}
+{"level":"info","time":"2025-07-30 14:17:46","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 14:17:46","msg":"定时任务管理器启动成功"}
+{"level":"info","time":"2025-07-30 15:55:45","msg":"Shutting down server..."}
+{"level":"error","time":"2025-07-30 15:55:45","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
+{"level":"info","time":"2025-07-30 15:55:45","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-07-30 15:55:45","msg":"定时任务管理器已停止"}
+{"level":"info","time":"2025-07-30 15:57:54","msg":"Shutting down server..."}
+{"level":"info","time":"2025-07-30 15:57:54","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-07-30 15:57:54","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
+{"level":"error","time":"2025-07-30 15:57:54","msg":"停止定时任务管理器失败: 任务管理器未启动","stacktrace":"server/app.DiyDefer\n\tD:/go_project/CloudFile/CloudFile/server/app/bootstrap.go:61\nmain.main.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:45\nmain.main\n\tD:/go_project/CloudFile/CloudFile/server/main.go:49\nruntime.main\n\tD:/soft/GO/src/runtime/proc.go:283"}
+{"level":"info","time":"2025-07-30 16:09:36","msg":"Shutting down server..."}
+{"level":"error","time":"2025-07-30 16:09:36","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
+{"level":"info","time":"2025-07-30 16:09:36","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-07-30 16:09:36","msg":"停止定时任务管理器失败: 任务管理器未启动","stacktrace":"server/app.DiyDefer\n\tD:/go_project/CloudFile/CloudFile/server/app/bootstrap.go:61\nmain.main.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:45\nmain.main\n\tD:/go_project/CloudFile/CloudFile/server/main.go:49\nruntime.main\n\tD:/soft/GO/src/runtime/proc.go:283"}

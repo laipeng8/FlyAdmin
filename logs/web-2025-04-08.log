@@ -1,0 +1,27 @@
+{"level":"info","time":"2025-04-08 13:17:20","msg":"Shutting down server..."}
+{"level":"error","time":"2025-04-08 13:17:20","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-04-08 13:17:20","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 13:20:33","msg":"Shutting down server..."}
+{"level":"error","time":"2025-04-08 13:20:33","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-04-08 13:20:33","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 13:35:20","msg":"Shutting down server..."}
+{"level":"error","time":"2025-04-08 13:35:20","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-04-08 13:35:20","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 13:43:10","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-08 13:43:10","msg":"shutdown-->ok"}
+{"level":"error","time":"2025-04-08 13:43:10","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"error","time":"2025-04-08 13:46:12","msg":"listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-04-08 13:46:17","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-08 13:46:17","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 13:54:51","msg":"Shutting down server..."}
+{"level":"error","time":"2025-04-08 13:54:51","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-04-08 13:54:51","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 20:42:21","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-08 20:42:21","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 21:21:24","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-08 21:21:24","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-08 21:22:16","msg":"Shutting down server..."}
+{"level":"error","time":"2025-04-08 21:22:16","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/server/main.go:39"}
+{"level":"info","time":"2025-04-08 21:22:16","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-04-09 09:52:11","msg":"Shutting down server..."}
+{"level":"info","time":"2025-04-09 09:52:11","msg":"shutdown-->ok"}
