@@ -38,3 +38,6 @@
 {"level":"error","time":"2025-07-30 16:09:36","msg":"listen: http: Server closed\n","stacktrace":"main.run.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:60"}
 {"level":"info","time":"2025-07-30 16:09:36","msg":"shutdown-->ok"}
 {"level":"error","time":"2025-07-30 16:09:36","msg":"停止定时任务管理器失败: 任务管理器未启动","stacktrace":"server/app.DiyDefer\n\tD:/go_project/CloudFile/CloudFile/server/app/bootstrap.go:61\nmain.main.func1\n\tD:/go_project/CloudFile/CloudFile/server/main.go:45\nmain.main\n\tD:/go_project/CloudFile/CloudFile/server/main.go:49\nruntime.main\n\tD:/soft/GO/src/runtime/proc.go:283"}
+{"level":"info","time":"2025-07-30 21:06:01","msg":"Shutting down server..."}
+{"level":"info","time":"2025-07-30 21:06:01","msg":"shutdown-->ok"}
+{"level":"info","time":"2025-07-30 21:06:01","msg":"定时任务管理器已停止"}
